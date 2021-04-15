@@ -1,17 +1,24 @@
 
 /* Create four equal columns that sits next to each other */
-.column {
-  flex: 45%;
-  max-width: 60%;
-  padding: 0 4px;
-  /* display: inline-block; */
+.subtitle{
+  flex: 40%;
+   /* padding: 0 1;  */
+ display: inline-block;
   padding-bottom: 3rem;
 }
-
-.column img {
+.image{
+  flex: 60%;
+   /* padding: 0 4px;  */
+ display: inline-block;
+  padding-bottom: 3rem;
+  
+}
+.image img {
+  
   margin-top: 8px;
   vertical-align: middle;
-  width: 100%;
+  
+  width: 90%;
 }
 
 h3{
