@@ -1,0 +1,50 @@
+.coverphoto {
+    width: 70rem;
+    height: 36rem;
+    object-fit: fill;
+    padding-top: 1rem;    
+  }
+a{
+  color: black ; 
+  text-decoration: none;
+}
+.top, h1, ul {
+  display: inline-block;
+  font-family: 'MaruBuri-Regular';
+}
+
+.top, h1{
+  font-size: 3.1rem;
+  color: black !important;
+}
+
+.top, ul{
+  font-size: 1.2rem;
+}
+
+#leftmenu {
+  padding-left: 60rem;
+}
+h2{
+  font-family:  'Maruburi-Regular';
+  font-size: 2.5rem;
+  padding-left: 3rem;
+}
+@font-face {
+  font-family: 'MaruBuri-Regular';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-10-21@1.0/MaruBuri-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap');
+h3{
+  font-size: 30rem;
+  font-family: 'Nanum Gothic', sans-serif;
+}
+
+h4{
+  font-family: 'Maruburi-Regular';
+}
+p{
+  font-family: 'Maruburi-Regular';
+}

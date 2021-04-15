@@ -1,0 +1,40 @@
+/* 인용구 */
+.quotation {
+    padding-right: 4rem;
+    padding-left: 4rem;
+    font-size: 80%;
+    /* border: 0.5rem;
+    border-color: black; */
+    font-family: 'MaruBuri-Regular';
+    
+}
+.quote {
+    font-style: italic;
+    
+}
+.quotecaption {
+    font-size: 80%;
+    text-align: center;
+}
+.footnote{
+    font-size: 80%;
+}
+.author{
+    font-size: 80%;
+}
+.bold{
+    font-weight: bold;
+}
+h3{
+    font-size: 3rem;
+    font-family: 'Yoonmingukr';
+  }
+
+.page{
+    padding-left: 8rem;
+    padding-right: 32rem;
+}
+.text{
+    font-size: 1.5rem;
+    line-height: 1.7;
+}
