@@ -44,7 +44,11 @@ h3{
 
 h4{
   font-family: 'Maruburi-Regular';
+  font-size: 2rem;
 }
 p{
+  font-family: 'Maruburi-Regular';
+}
+figcaption{
   font-family: 'Maruburi-Regular';
 }

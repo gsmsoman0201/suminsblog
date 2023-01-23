@@ -29,6 +29,14 @@ h3{
     font-size: 3rem;
     font-family: 'Yoonmingukr';
   }
+figcaption{
+    font-size: 1rem;
+    font-family: 'Maruburi-Regular';
+}
+figure{
+    text-align: center;
+    padding-bottom: 7rem;
+}
 
 .page{
     padding-left: 8rem;
@@ -37,4 +45,10 @@ h3{
 .text{
     font-size: 1.5rem;
     line-height: 1.7;
+}
+.image{width: 25rem;}
+
+.source{
+    font-style: italic;
+    color: green;
 }

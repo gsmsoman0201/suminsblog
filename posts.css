@@ -2,22 +2,17 @@
 /* Create four equal columns that sits next to each other */
 .subtitle{
   flex: 40%;
-   /* padding: 0 1;  */
- display: inline-block;
+  display: inline-block;
   padding-bottom: 3rem;
 }
 .image{
   flex: 60%;
-   /* padding: 0 4px;  */
- display: inline-block;
-  padding-bottom: 3rem;
-  
+  display: inline-block;
+  padding-bottom: 3rem; 
 }
 .image img {
-  
   margin-top: 8px;
-  vertical-align: middle;
-  
+  vertical-align: middle; 
   width: 90%;
 }
 
@@ -25,6 +20,7 @@ h3{
     font-size: 1.5rem;
     font-family:  'Maruburi-Regular';
 }
+
 p{
     font-size: 1rem;
     font-family:  'Maruburi-Regular';
